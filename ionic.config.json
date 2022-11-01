@@ -1,0 +1,7 @@
+{
+  "name": "l05-plugins",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
